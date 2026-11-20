@@ -1,0 +1,13 @@
+{
+    "name": "Тестовий респондент 3",
+    "email": "test3@example.com",
+    "submitted_at": "2026-11-13 08:46:14",
+    "answers": {
+        "usage_frequency": "Рідко",
+        "tasks": [
+            "Пояснення тем"
+        ],
+        "usefulness": "3",
+        "improvement": "Більше пояснень крок за кроком."
+    }
+}
